@@ -63,7 +63,6 @@ Here is how QDataSet properties are interpreted in this case:
 
 QFunctions have two methods: value\(\) and values\(\). `value` always takes a rank 1 bundle. Even if this is just one parameter, then this must be a bundle of the one parameter. `values` is always a rank 2. The class AbstractQFunction is intended to simply writing QFunctions by implementing a values method that calls the value method for each input of the rank 2 array. This allows the QFunctions to be implemented more efficiently when a lookup must be done before a result can be formed. For example, at the Plasma Wave group, we implement functions by posting the input to a server and then returning the result.
 
-Retrieved from "[http://autoplot.org//QFunction](http://autoplot.org//QFunction)"
 
 
 
