@@ -4,11 +4,7 @@ description: test to see how wall markdown is handled
 
 # QFunction
 
-## QFunction
-
-
-
-Definitive Page On QFunctions
+## Definitive Page On QFunctions
 
 A QFunction is a representation for a data function that tries to reuse as much of the QDataSet interface as possible. A QFunction takes N parameters as input and returns M parameters as output. The QFunction interface is simply a value\(\) method that takes a rank 1 dataset as input and returns a rank 1 dataset as output. Also a method exampleInput\(\) returns an example of an input used for the function. This allows for discovery of the function, identifying units, valid ranges, and cadences for inputs.
 
