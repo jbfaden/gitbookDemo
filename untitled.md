@@ -1,10 +1,12 @@
-# index
+---
+description: test to see how wall markdown is handled
+---
+
+# QFunction
 
 ## QFunction
 
-### From autoplot.org
 
-Jump to: [navigation](), [search]()
 
 Definitive Page On QFunctions
 
@@ -71,42 +73,5 @@ QFunctions have two methods: value\(\) and values\(\). `value` always takes a ra
 
 Retrieved from "[http://autoplot.org//QFunction](http://autoplot.org//QFunction)"
 
-#### Views
 
-* [Article](/QFunction)
-* [Discussion](/wiki/index.php?title=Talk:QFunction&action=edit)
-* [View source](/wiki/index.php?title=QFunction&action=edit)
-* [History](/wiki/index.php?title=QFunction&action=history)
-
-#### Personal tools
-
-* \[Log in / create
-
-  account\]\(/wiki/index.php?title=Special:Userlogin&returnto=QFunction "You are encouraged to log in, it is not mandatory however. \[o\]"\)
-
-#### Navigation
-
-* [Main Page](/Main_Page)
-* [Community portal](/autoplot.org:Community_Portal)
-* [Current events](/Current_events)
-* [Recent changes](/Special:Recentchanges)
-* [Random page](/Special:Random)
-* [Help](/Help:Contents)
-* [Donations](/autoplot.org:Site_support)
-
-#### Search
-
-#### Toolbox
-
-* [What links here](/Special:Whatlinkshere/QFunction)
-* [Related changes](/Special:Recentchangeslinked/QFunction)
-* [Upload file](/Special:Upload)
-* [Special pages](/Special:Specialpages)
-* [Printable version](/wiki/index.php?title=QFunction&printable=yes)
-* [Permanent link](/wiki/index.php?title=QFunction&oldid=2682)
-* This page was last modified 18:43, 14 March 2011.
-* This page has been accessed 1,503 times.
-* [Privacy policy](/autoplot.org:Privacy_policy)
-* [About autoplot.org](/autoplot.org:About)
-* [Disclaimers](/autoplot.org:General_disclaimer)
 
