@@ -1,7 +1,3 @@
----
-description: test to see how wall markdown is handled
----
-
 # QFunction
 
 ## Definitive Page On QFunctions
